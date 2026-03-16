@@ -1,0 +1,23 @@
+body{
+	background-image: url("rugby.jpg");
+	background-size: 100%;
+}
+p{
+	color: red;
+	background: yellow;
+	font-family: Arial;
+}
+h2{
+	color: green;
+}
+
+.special{
+	background-color: pink;
+}
+
+div{
+	border: 2px darkred solid;
+	border-radius: 35px;
+	width: 400px;
+	height:300px ;
+}
